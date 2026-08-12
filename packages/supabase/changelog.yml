@@ -3,7 +3,7 @@
   changes:
     - description: Bump `prometheus_input_otel` input dependency from 0.1.1 to 0.1.2.
       type: enhancement
-      link: https://github.com/elastic/integrations/pull/REPLACE_ME
+      link: https://github.com/elastic/integrations/pull/20678
 - version: "0.1.1"
   changes:
     - description: Set agentless deployment mode `release` field to `beta`.
